@@ -1,0 +1,66 @@
+C:\Users\ana.hernandez\source\repos\gmail\gmail\obj\Debug\gmail.csproj.AssemblyReference.cache
+C:\Users\ana.hernandez\source\repos\gmail\gmail\obj\Debug\enviarCorreo.Form1.resources
+C:\Users\ana.hernandez\source\repos\gmail\gmail\obj\Debug\gmail.VentanaPrincipal.resources
+C:\Users\ana.hernandez\source\repos\gmail\gmail\obj\Debug\gmail.Properties.Resources.resources
+C:\Users\ana.hernandez\source\repos\gmail\gmail\obj\Debug\gmail.csproj.GenerateResource.cache
+C:\Users\ana.hernandez\source\repos\gmail\gmail\obj\Debug\gmail.csproj.CoreCompileInputs.cache
+C:\Users\ana.hernandez\source\repos\gmail\gmail\bin\Debug\gmail.exe.config
+C:\Users\ana.hernandez\source\repos\gmail\gmail\bin\Debug\gmail.exe
+C:\Users\ana.hernandez\source\repos\gmail\gmail\bin\Debug\gmail.pdb
+C:\Users\ana.hernandez\source\repos\gmail\gmail\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ana.hernandez\source\repos\gmail\gmail\obj\Debug\gmail.csproj.Up2Date
+C:\Users\ana.hernandez\source\repos\gmail\gmail\obj\Debug\gmail.exe
+C:\Users\ana.hernandez\source\repos\gmail\gmail\obj\Debug\gmail.pdb
+C:\Users\ana.hernandez\source\repos\gmail\gmail\obj\Debug\gmail.config.resources
+C:\Users\A1\source\repos\gmail\gmail\gmail\obj\Debug\gmail.csproj.AssemblyReference.cache
+C:\Users\A1\source\repos\gmail\gmail\gmail\obj\Debug\gmail.exe
+C:\Users\A1\source\repos\gmail\gmail\gmail\obj\Debug\gmail.pdb
+C:\Users\A1\source\repos\gmail\gmail\gmail\bin\Debug\gmail.exe.config
+C:\Users\A1\source\repos\gmail\gmail\gmail\bin\Debug\gmail.exe
+C:\Users\A1\source\repos\gmail\gmail\gmail\bin\Debug\gmail.pdb
+C:\Users\A1\source\repos\gmail\gmail\gmail\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\A1\source\repos\gmail\gmail\gmail\obj\Debug\gmail.config.resources
+C:\Users\A1\source\repos\gmail\gmail\gmail\obj\Debug\enviarCorreo.Form1.resources
+C:\Users\A1\source\repos\gmail\gmail\gmail\obj\Debug\gmail.VentanaPrincipal.resources
+C:\Users\A1\source\repos\gmail\gmail\gmail\obj\Debug\gmail.Properties.Resources.resources
+C:\Users\A1\source\repos\gmail\gmail\gmail\obj\Debug\gmail.csproj.GenerateResource.cache
+C:\Users\A1\source\repos\gmail\gmail\gmail\obj\Debug\gmail.csproj.CoreCompileInputs.cache
+C:\Users\A1\source\repos\gmail\gmail\gmail\obj\Debug\gmail.csproj.Up2Date
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\obj\Debug\gmail.csproj.AssemblyReference.cache
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\obj\Debug\gmail.exe
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\obj\Debug\gmail.pdb
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\bin\Debug\gmail.exe.config
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\bin\Debug\gmail.exe
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\bin\Debug\gmail.pdb
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\obj\Debug\gmail.config.resources
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\obj\Debug\enviarCorreo.Form1.resources
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\obj\Debug\gmail.VentanaPrincipal.resources
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\obj\Debug\gmail.Properties.Resources.resources
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\obj\Debug\gmail.csproj.GenerateResource.cache
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\obj\Debug\gmail.csproj.CoreCompileInputs.cache
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\obj\Debug\gmail.csproj.Up2Date
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\obj\Debug\gmail.volver.resources
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\obj\Debug\gmail.usuarios.resources
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\obj\Debug\gmail.listado.resources
+C:\Users\ana.hernandez\OneDrive - Sistemas GyG S.A\Documentos\Desarrollo gráfico\Material de estudio\gmail\gmail\gmail\gmail\bin\Debug\gmail.exe.config
+C:\Users\ana.hernandez\OneDrive - Sistemas GyG S.A\Documentos\Desarrollo gráfico\Material de estudio\gmail\gmail\gmail\gmail\bin\Debug\gmail.exe
+C:\Users\ana.hernandez\OneDrive - Sistemas GyG S.A\Documentos\Desarrollo gráfico\Material de estudio\gmail\gmail\gmail\gmail\bin\Debug\gmail.pdb
+C:\Users\ana.hernandez\OneDrive - Sistemas GyG S.A\Documentos\Desarrollo gráfico\Material de estudio\gmail\gmail\gmail\gmail\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ana.hernandez\OneDrive - Sistemas GyG S.A\Documentos\Desarrollo gráfico\Material de estudio\gmail\gmail\gmail\gmail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ana.hernandez\OneDrive - Sistemas GyG S.A\Documentos\Desarrollo gráfico\Material de estudio\gmail\gmail\gmail\gmail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ana.hernandez\OneDrive - Sistemas GyG S.A\Documentos\Desarrollo gráfico\Material de estudio\gmail\gmail\gmail\gmail\obj\Debug\gmail.csproj.AssemblyReference.cache
+C:\Users\ana.hernandez\OneDrive - Sistemas GyG S.A\Documentos\Desarrollo gráfico\Material de estudio\gmail\gmail\gmail\gmail\obj\Debug\gmail.config.resources
+C:\Users\ana.hernandez\OneDrive - Sistemas GyG S.A\Documentos\Desarrollo gráfico\Material de estudio\gmail\gmail\gmail\gmail\obj\Debug\enviarCorreo.Form1.resources
+C:\Users\ana.hernandez\OneDrive - Sistemas GyG S.A\Documentos\Desarrollo gráfico\Material de estudio\gmail\gmail\gmail\gmail\obj\Debug\gmail.listado.resources
+C:\Users\ana.hernandez\OneDrive - Sistemas GyG S.A\Documentos\Desarrollo gráfico\Material de estudio\gmail\gmail\gmail\gmail\obj\Debug\gmail.usuarios.resources
+C:\Users\ana.hernandez\OneDrive - Sistemas GyG S.A\Documentos\Desarrollo gráfico\Material de estudio\gmail\gmail\gmail\gmail\obj\Debug\gmail.VentanaPrincipal.resources
+C:\Users\ana.hernandez\OneDrive - Sistemas GyG S.A\Documentos\Desarrollo gráfico\Material de estudio\gmail\gmail\gmail\gmail\obj\Debug\gmail.Properties.Resources.resources
+C:\Users\ana.hernandez\OneDrive - Sistemas GyG S.A\Documentos\Desarrollo gráfico\Material de estudio\gmail\gmail\gmail\gmail\obj\Debug\gmail.volver.resources
+C:\Users\ana.hernandez\OneDrive - Sistemas GyG S.A\Documentos\Desarrollo gráfico\Material de estudio\gmail\gmail\gmail\gmail\obj\Debug\gmail.csproj.GenerateResource.cache
+C:\Users\ana.hernandez\OneDrive - Sistemas GyG S.A\Documentos\Desarrollo gráfico\Material de estudio\gmail\gmail\gmail\gmail\obj\Debug\gmail.csproj.CoreCompileInputs.cache
+C:\Users\ana.hernandez\OneDrive - Sistemas GyG S.A\Documentos\Desarrollo gráfico\Material de estudio\gmail\gmail\gmail\gmail\obj\Debug\gmail.csproj.Up2Date
+C:\Users\ana.hernandez\OneDrive - Sistemas GyG S.A\Documentos\Desarrollo gráfico\Material de estudio\gmail\gmail\gmail\gmail\obj\Debug\gmail.exe
+C:\Users\ana.hernandez\OneDrive - Sistemas GyG S.A\Documentos\Desarrollo gráfico\Material de estudio\gmail\gmail\gmail\gmail\obj\Debug\gmail.pdb

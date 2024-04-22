@@ -1,0 +1,11 @@
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\obj\Release\gmail.csproj.AssemblyReference.cache
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\obj\Release\gmail.config.resources
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\obj\Release\enviarCorreo.Form1.resources
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\obj\Release\gmail.listado.resources
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\obj\Release\gmail.listaUsuarios.resources
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\obj\Release\gmail.usuarios.resources
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\obj\Release\gmail.VentanaPrincipal.resources
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\obj\Release\gmail.Properties.Resources.resources
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\obj\Release\gmail.volver.resources
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\obj\Release\gmail.csproj.GenerateResource.cache
+C:\Users\ana.hernandez\Downloads\gmail\gmail\gmail\gmail\obj\Release\gmail.csproj.CoreCompileInputs.cache
